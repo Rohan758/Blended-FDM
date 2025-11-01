@@ -37,5 +37,3 @@ Side View: Generates a stacked bar chart visualizing the total length of Materia
 **Final Object Visualization:**
 
 Matplotlib Sliced View: Renders a 3D view of the final cube built from thin, stacked layers, each colored according to the programmed gradient.
-
-PyVista Solid Mesh View: A standalone script (visualize_gradient.py) that loads a 3D mesh (e.g., .stl) and applies a smooth colormap to its surface based on Z-height, simulating the final blended gradient.
